@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Malone342
-- 👀 I’m interested in data science career
+- 👀 I’m interested in a career using code
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me send a message
